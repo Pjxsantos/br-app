@@ -457,11 +457,11 @@ export default function Home() {
               <div className="u-layout-col">
                 <div
                   className="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1"
-                  src=""
+                  
                 >
                   <div
                     className="u-container-layout u-container-layout-1"
-                    src=""
+                    
                   >
                     <img
                       className="u-expanded-width u-image u-image-1"
@@ -476,7 +476,7 @@ export default function Home() {
                 </div>
                 <div
                   className="u-align-left u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-2"
-                  src=""
+                  
                   data-image-width={800}
                   data-image-height={675}
                   data-animation-name="customAnimationIn"
@@ -485,7 +485,7 @@ export default function Home() {
                 >
                   <div
                     className="u-container-layout u-container-layout-2"
-                    src=""
+                    
                   />
                 </div>
               </div>
@@ -494,11 +494,11 @@ export default function Home() {
               <div className="u-layout-row">
                 <div
                   className="u-align-left u-container-style u-layout-cell u-right-cell u-size-60 u-layout-cell-3"
-                  src=""
+                  
                 >
                   <div
                     className="u-container-layout u-container-layout-3"
-                    src=""
+                    
                   >
                     <img
                       className="u-expanded-width u-image u-image-3"
@@ -578,7 +578,7 @@ export default function Home() {
         <div className="u-repeater u-repeater-1">
           <div
             className="u-align-left u-container-style u-image u-list-item u-repeater-item u-shading u-image-1"
-            src=""
+            
             data-animation-name="customAnimationIn"
             data-animation-duration={1500}
             data-animation-delay={250}
@@ -600,7 +600,7 @@ export default function Home() {
           </div>
           <div
             className="u-align-left u-container-align-center u-container-style u-image u-list-item u-repeater-item u-shading u-image-2"
-            src=""
+            
             data-animation-name="customAnimationIn"
             data-animation-duration={1500}
             data-animation-delay={250}
@@ -622,7 +622,7 @@ export default function Home() {
           </div>
           <div
             className="u-align-left u-container-align-center u-container-style u-image u-list-item u-repeater-item u-shading u-image-3"
-            src=""
+            
             data-animation-name="customAnimationIn"
             data-animation-duration={1500}
             data-animation-delay={250}
@@ -644,7 +644,7 @@ export default function Home() {
           </div>
           <div
             className="u-align-left u-container-align-center u-container-style u-image u-list-item u-repeater-item u-shading u-image-4"
-            src=""
+            
             data-animation-name="customAnimationIn"
             data-animation-duration={1500}
             data-animation-delay={250}
@@ -666,7 +666,7 @@ export default function Home() {
           </div>
           <div
             className="u-align-left u-container-align-center u-container-style u-image u-list-item u-repeater-item u-shading u-image-5"
-            src=""
+            
             data-animation-name="customAnimationIn"
             data-animation-duration={1500}
             data-animation-delay={250}
@@ -689,7 +689,7 @@ export default function Home() {
           </div>
           <div
             className="u-align-left u-container-align-center u-container-style u-image u-list-item u-repeater-item u-shading u-image-6"
-            src=""
+            
             data-animation-name="customAnimationIn"
             data-animation-duration={1500}
             data-animation-delay={250}
@@ -711,7 +711,7 @@ export default function Home() {
           </div>
           <div
             className="u-align-left u-container-align-center u-container-style u-image u-list-item u-repeater-item u-shading u-image-7"
-            src=""
+            
             data-animation-name="customAnimationIn"
             data-animation-duration={1500}
             data-animation-delay={250}
@@ -734,7 +734,6 @@ export default function Home() {
           </div>
           <div
             className="u-align-left u-container-align-center u-container-style u-image u-list-item u-repeater-item u-shading u-image-8"
-            src=""
             data-animation-name="customAnimationIn"
             data-animation-duration={1500}
             data-animation-delay={250}
@@ -853,7 +852,7 @@ export default function Home() {
               action="#"
               className="u-clearfix u-form-spacing-13 u-form-vertical u-inner-form"
               style={{ padding: 0 }}
-              source="email"
+              resource="email"
               name="form"
             >
               <div className="u-form-email u-form-group u-form-partition-factor-2">
@@ -865,7 +864,7 @@ export default function Home() {
                   id="email-f18c"
                   name="email"
                   className="u-grey-5 u-input u-input-rectangle u-input-1"
-                  required=""
+                  required
                   wfd-id="id1449"
                   placeholder="gbc@gmail.com"
                 />
@@ -880,7 +879,7 @@ export default function Home() {
                   id="name-f18c"
                   name="name"
                   className="u-grey-5 u-input u-input-rectangle u-input-2"
-                  required=""
+                  required
                   wfd-id="id1450"
                 />
               </div>
@@ -898,7 +897,7 @@ export default function Home() {
                   id="phone-cbff"
                   name="phone"
                   className="u-grey-5 u-input u-input-rectangle u-input-3"
-                  required=""
+                  required
                   wfd-id="id1451"
                 />
               </div>
@@ -911,7 +910,7 @@ export default function Home() {
                   id="date-33f9"
                   name="date"
                   className="u-grey-5 u-input u-input-rectangle u-input-4"
-                  required=""
+                  required
                   data-date-format="mm/dd/yyyy"
                 />
               </div>
@@ -926,7 +925,7 @@ export default function Home() {
                   id="message-1015"
                   name="message-1"
                   className="u-grey-5 u-input u-input-rectangle u-input-5"
-                  required=""
+                  required
                   defaultValue={""}
                 />
               </div>

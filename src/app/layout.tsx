@@ -19,8 +19,8 @@ export default function RootLayout({
   return (
     <html lang="pt-br">
       <body className={inter.className}>{children}</body>
-      <Script src="js/jquery-1.9.1.min.js" />
-      <Script src="js/script.js" />
+            <Script src="js/jquery-1.9.1.min.js" />
+            <Script src="js/script.js" />
     </html>
   )
 }
