@@ -1,6 +1,7 @@
 import Image from 'next/image'
 
 export default function Home() {
+  const newLocal = "#sec-bb82"
   return (
     <>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -13,6 +14,8 @@ export default function Home() {
     content="/images/gbc.png"
     property="og:image"
   />
+      <link rel="stylesheet" href="css/style.css" media="screen"/>
+      <link rel="stylesheet" href="css/GBC.css" media="screen"/>
   <link
     id="u-theme-google-font"
     rel="stylesheet"
@@ -33,7 +36,7 @@ export default function Home() {
   data-lang="pt"
 >
   <header className="u-clearfix u-header u-header" id="sec-0efc">
-    <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
+    <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1" >
       <a
         href="#"
         className="u-image u-logo u-image-1"
@@ -82,7 +85,7 @@ export default function Home() {
             <li className="u-nav-item">
               <a
                 className="u-active-palette-4-dark-1 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-custom-color-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
-                href="index.html#sec-bb82"
+                href={newLocal}
                 style={{ padding: "10px 20px" }}
               >
                 início
@@ -91,7 +94,7 @@ export default function Home() {
             <li className="u-nav-item">
               <a
                 className="u-active-palette-4-dark-1 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-custom-color-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
-                href="index.html#carousel_8017"
+                href="#carousel_8017"
                 style={{ padding: "10px 20px" }}
               >
                 Deixe uma mensagem
@@ -100,7 +103,7 @@ export default function Home() {
             <li className="u-nav-item">
               <a
                 className="u-active-palette-4-dark-1 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-custom-color-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
-                href="index.html#sec-56b3"
+                href="#sec-56b3"
                 style={{ padding: "10px 20px" }}
               >
                 {" "}
@@ -110,7 +113,7 @@ export default function Home() {
             <li className="u-nav-item">
               <a
                 className="u-active-palette-4-dark-1 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-custom-color-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
-                href="index.html#sec-2f55"
+                href="#sec-2f55"
                 style={{ padding: "10px 20px" }}
               >
                 {" "}
@@ -127,7 +130,7 @@ export default function Home() {
                 <li className="u-nav-item">
                   <a
                     className="u-button-style u-nav-link"
-                    href="index.html#sec-bb82"
+                    href="#sec-bb82"
                   >
                     início
                   </a>
@@ -135,7 +138,7 @@ export default function Home() {
                 <li className="u-nav-item">
                   <a
                     className="u-button-style u-nav-link"
-                    href="index.html#carousel_8017"
+                    href="#carousel_8017"
                   >
                     Deixe uma mensagem
                   </a>
@@ -143,7 +146,7 @@ export default function Home() {
                 <li className="u-nav-item">
                   <a
                     className="u-button-style u-nav-link"
-                    href="index.html#sec-56b3"
+                    href="#sec-56b3"
                   >
                     {" "}
                     Serviços de barbearia
@@ -152,7 +155,7 @@ export default function Home() {
                 <li className="u-nav-item">
                   <a
                     className="u-button-style u-nav-link"
-                    href="index.html#sec-2f55"
+                    href="#sec-2f55"
                   >
                     {" "}
                     Nossos serviços
@@ -1009,7 +1012,8 @@ export default function Home() {
     }}
     className="u-back-to-top u-custom-color-1 u-icon u-icon-circle u-opacity u-opacity-70"
     data-href="#"
-  >
+  ><a
+  href="#">
     <svg
       className="u-svg-link"
       preserveAspectRatio="xMidYMin slice"
@@ -1026,6 +1030,7 @@ export default function Home() {
     >
       <path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z" />
     </svg>
+    </a>
   </span>
 </main>
 </>

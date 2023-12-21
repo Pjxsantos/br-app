@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('https://raw.githubusercontent.com/Pjxsantos/barbearia-html/main/images/jovem-na-barbearia-aparando-cabelo.jpg');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('../images/jovem-na-barbearia-aparando-cabelo.jpg');
   background-position: 50% 50%;
 }
 
@@ -669,7 +669,7 @@
 
 .u-section-6 .u-image-2 {
   min-height: 384px;
-  background-image: url("https://raw.githubusercontent.com/Pjxsantos/barbearia-html/main/images/yyyy.jpg");
+  background-image: url("../images/yyyy.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -300px;
   --animation-custom_in-translate_y: 0px;
@@ -983,7 +983,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://raw.githubusercontent.com/Pjxsantos/barbearia-html/main/images/ffff.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../images/ffff.jpg");
 }
 
 .u-section-8 .u-container-layout-1 {
@@ -1019,7 +1019,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://raw.githubusercontent.com/Pjxsantos/barbearia-html/main/images/jjjjjjjjjjj.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../images/jjjjjjjjjjj.jpg");
 }
 
 .u-section-8 .u-container-layout-3 {
@@ -1055,7 +1055,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://raw.githubusercontent.com/Pjxsantos/barbearia-html/main/images/kjjkk.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../images/kjjkk.jpg");
 }
 
 .u-section-8 .u-container-layout-5 {
@@ -1091,7 +1091,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://raw.githubusercontent.com/Pjxsantos/barbearia-html/main/images/888.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../images/888.jpg");
 }
 
 .u-section-8 .u-container-layout-7 {
@@ -1127,7 +1127,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://raw.githubusercontent.com/Pjxsantos/barbearia-html/main/images/barber.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../images/barber.jpg");
 }
 
 .u-section-8 .u-container-layout-9 {
@@ -1163,7 +1163,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://raw.githubusercontent.com/Pjxsantos/barbearia-html/main/images/qw.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../images/qw.jpg");
 }
 
 .u-section-8 .u-container-layout-11 {
@@ -1199,7 +1199,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://raw.githubusercontent.com/Pjxsantos/barbearia-html/main/images/54634.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../images/54634.jpg");
 }
 
 .u-section-8 .u-container-layout-13 {
@@ -1235,7 +1235,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://raw.githubusercontent.com/Pjxsantos/barbearia-html/main/images/e213.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../images/e213.jpg");
 }
 
 .u-section-8 .u-container-layout-15 {
@@ -1750,7 +1750,7 @@
     padding-left: 21px;
   }
 } .u-section-10 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://raw.githubusercontent.com/Pjxsantos/barbearia-html/main/images/ggfg.jpg');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../images/ggfg.jpg');
   background-position: 50% 50%;
 }
 
