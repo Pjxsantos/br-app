@@ -1,3 +1,23 @@
+# <p align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sou Paulo Jorge</p>
+
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=Um+desenvolvedor+web+front-end)](https://pjxsantos.vercel.app/#)
+  
+</div>
+
+<div align=center>
+
+
+<a href="https://bar-app.vercel.app/#">
+ Deploy </a>
+
+<h2>Migração de Projeto HTML, CSS e JS ➡️ NEXT.JS e TypeScript 😉</h2>
+  </div>
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
