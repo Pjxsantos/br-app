@@ -10,7 +10,7 @@
 <div align=center>
 
 
-<a href="https://bar-app.vercel.app/#">
+<a href="https://br-app.vercel.app/#">
  Deploy </a>
 
 <h2>Migração de Projeto HTML, CSS e JS ➡️ NEXT.JS e TypeScript 😉</h2>
